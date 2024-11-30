@@ -51,20 +51,3 @@ Tác giả
 Tên tác giả: Vũ Hoài Nam
 Email: 20212501@eaut.edu.vn
 GitHub: https://github.com/vunameaut
-Giấy phép
-
-
-less
-Copy code
-
-### Các phần chính trong file `README.md`:
-
-1. **Mô tả dự án**: Giới thiệu về mục tiêu và chức năng chính của dự án.
-2. **Các yêu cầu**: Liệt kê các phần mềm và thư viện cần thiết để chạy ứng dụng.
-3. **Cài đặt**: Hướng dẫn cài đặt các thư viện cần thiết.
-4. **Cách sử dụng**: Hướng dẫn cách chạy ứng dụng và cách sử dụng các hàm trong mã nguồn.
-5. **Các lưu ý**: Cung cấp thông tin quan trọng khi sử dụng dự án.
-6. **Tác giả**: Thông tin về người phát triển dự án.
-7. **Giấy phép**: Thông tin giấy phép của dự án.
-
-File này giúp người khác dễ dàng hiểu được cách thiết lập và sử dụng dự án của bạn.
